@@ -26,5 +26,9 @@ Built for learning and personal projects — not intended for commercial distrib
 
 MIT License or specify another license if you’ve included one.
 
+---
+# calculator view 
+<img width="594" height="814" alt="image" src="https://github.com/user-attachments/assets/98061033-9aa9-4a06-b2e7-c239732b4d59" />
+
 
 
